@@ -6,13 +6,13 @@ This script creates a super simple jQuery accordion. To make it work simply foll
 1. Add a <code>div</code> with the ID <code>lingulo-accordion</code> (you can change the ID in the .js file)
 2. For each accordion item add a separate <code>div</code> inside the <code>lingulo-accordion</code>
 
-```Example:```
+'''Example:'''
 ```html
 <div id="lingulo-accordion">
 	<div>
 		<h3>Any content</h3>
 		<p>You can add any content you like: Text, Images, Videos</p>
-		<img src="http://www.lingulo.com/wp-content/themes/starcash/images/logo.png" alt="Lingulo.com - A resource for web developers">
+		<img src="logo.png" alt="Lingulo.com - A resource for web developers">
 	</div>
 	<div>
 		<h3>Tiny script</h3>
