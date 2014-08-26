@@ -6,7 +6,7 @@ This script creates a super simple jQuery accordion. To make it work simply foll
 1. Add a <code>div</code> with the ID <code>lingulo-accordion</code> (you can change the ID in the .js file)
 2. For each accordion item add a separate <code>div</code> inside the <code>lingulo-accordion</code>
 
-'''Example:'''
+<b>Example:</b>
 ```html
 <div id="lingulo-accordion">
 	<div>
