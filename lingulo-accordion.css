@@ -1,0 +1,21 @@
+#lingulo-accordion > div
+{
+	width: 100%;
+	height: 35px;
+	overflow: hidden;
+	cursor: pointer;
+}
+
+#lingulo-accordion > div h3
+{
+	color: #fff;
+	padding: 4px 2px 4px 10px;
+	margin: 0 0 20px 0;
+	font-size: 130%;
+	background-color: #666055;
+}
+
+#lingulo-accordion > div h3:hover
+{
+	background-color: #FF7173;
+}
